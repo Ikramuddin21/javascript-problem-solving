@@ -46,7 +46,7 @@ function brickCalculator(floor){
 var brickCountResult = brickCalculator();
 console.log(brickCountResult);
 
-//tiny Friend
+// tiny Friend
 function tinyFriend(names){
     var smallName = names[0];
     for(var i = 0; i < names.length; i++) {
